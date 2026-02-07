@@ -256,9 +256,6 @@ This work is built upon several excellent open-source projects:
 - [NATTEN](https://github.com/SHI-Labs/NATTEN) - Neighborhood Attention Transformer
 - [timm](https://github.com/huggingface/pytorch-image-models) - PyTorch Image Models
 - [CDDFuse](https://github.com/Zhaozixiang1228/MMIF-CDDFuse) - CDDFuse
-- [ResNeSt](https://github.com/zhanghang1989/ResNeSt) - Split Attention Networks
-- [Faster R-CNN (torchvision)](https://pytorch.org/vision/stable/models/faster_rcnn.html) - Object Detection
-- [DeepLabV3 (torchvision)](https://pytorch.org/vision/stable/models/deeplabv3.html) - Semantic Segmentation
 
 ## License
 
