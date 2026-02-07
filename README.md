@@ -61,7 +61,7 @@ We construct a new **UAV Multi-Scenario (UMS)** multimodal dataset to address th
 
 | Source | Link |
 |--------|------|
-| Baidu Netdisk | [Download](https://pan.baidu.com/s/1255aOfsLBvMm6ywlsyb15w?pwd=geph) (提取码: `geph`) |
+| Baidu Netdisk | [Download](https://pan.baidu.com/s/1255aOfsLBvMm6ywlsyb15w?pwd=geph) (`geph`) |
 
 After downloading, organize the dataset as follows:
 ```
