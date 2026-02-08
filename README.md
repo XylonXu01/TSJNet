@@ -243,7 +243,12 @@ fusion_loss, fusion_seg_loss, fusion_det_losses, ir_det_losses, vi_det_losses, t
 If you find this work useful, please cite:
 
 ```bibtex
-
+@article{TSJNet,
+  title={TSJNet: A multi-modality target and semantic awareness joint-driven image fusion network},
+  author={Jie, Yuchan and Xu, Yushen and Li, Xiaosong and Tan, Haishu},
+  journal={arXiv preprint arXiv:2402.01212},
+  year={2024}
+}
 ```
 
 ## 📬 Contact
